@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\CodeRed-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\user\Desktop\CodeRed-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_94662793a35a8461f6f70c27a3dd0a1ab91fe61a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\CodeRed-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a51a0009d547a2b1385fcad280d72d6ed8fed0d5">
+        <dex dex="C:\Users\user\Desktop\CodeRed-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5216e88a0d0567594e3afb53b7d5203b9af40ae8\classes.dex" />
+    </item>
+
+</items>

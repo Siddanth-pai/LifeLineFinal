@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="trackmylocation.example.com.trackmyloacation.Activity1">
+
+    <RelativeLayout
+        android:layout_width="371dp"
+        android:layout_height="494dp"
+        tools:layout_editor_absoluteX="7dp"
+        tools:layout_editor_absoluteY="1dp">
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:onClick="BtnOnClick"
+            android:text="Call" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="207dp"
+            android:layout_height="195dp"
+            android:gravity="top"
+            android:text="Vraj"
+            android:textSize="30dp"
+            android:layout_centerInParent="true"
+            android:textColor="@color/colorPrimaryDark"
+            android:visibility="visible"
+            tools:layout_editor_absoluteX="149dp"
+            tools:layout_editor_absoluteY="16dp"
+            android:layout_above="@+id/button1"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+
+
+
+</android.support.constraint.ConstraintLayout>

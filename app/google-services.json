@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "832318636267",
+    "firebase_url": "https://comtrackmyloacation.firebaseio.com",
+    "project_id": "comtrackmyloacation",
+    "storage_bucket": "comtrackmyloacation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832318636267:android:49077e791b5e3400",
+        "android_client_info": {
+          "package_name": "trackmylocation.example.com.trackmyloacation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832318636267-k2r6jrpr733pndh5u3i3jl1ct86ri2bj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trackmylocation.example.com.trackmyloacation",
+            "certificate_hash": "730b066396850a9c5336998670906298d63decc5"
+          }
+        },
+        {
+          "client_id": "832318636267-jjs3dl0b1d519fdt9jnb4g9fdr9g3c5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX3OLhyvxFQ6TWbrML9P2TeQDuJLrEx2c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832318636267-jjs3dl0b1d519fdt9jnb4g9fdr9g3c5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

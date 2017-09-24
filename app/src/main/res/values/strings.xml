@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LifeLine by CodeRed</string>
+    <string name="title_activity_maps">LifeLine</string>
+    <array name="bloodgrp">
+        <item>A+</item>
+        <item>O+</item>
+        <item>B+</item>
+        <item>AB+</item>
+        <item>A-</item>
+        <item>O-</item>
+        <item>B-</item>
+        <item>AB-</item>
+    </array>
+    <string name="Map">Map</string>
+    <string name="add">ADD</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_name">enter name</string>
+    <string name="link">link</string>
+</resources>
